@@ -1,16 +1,17 @@
 
 # Creating a 2D list
-people = [ 
-  ['Alice',23,'Blue','Audi'],
-  ['Tariq',18,'Red','Mini'], 
-  ['Bob',31,'Green','Renault'] 
+desks= [
+  ['Adam', 'Ben', 'Carl', 'David'],
+  ['Edward', 'Frank', 'Georgia', 'Helen'],
+  ['Isabelle', 'Joan', 'Kelly', 'Linda']
 ]
 
 # Looping through both dimensions
-for row in people:
+for row in desks:
   print('this row has ' + str(len(row)) + ' items')
   
   for col in row:
     print(col)
   
   print('---')
+  
