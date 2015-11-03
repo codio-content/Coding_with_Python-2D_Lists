@@ -1,17 +1,13 @@
-{Run the code}(python3 run-user.py easy.py)
-
 {Check It!|assessment}(test-2304874676)
 
 |||guidance
 ### Solution
 ```python
+# Get our list from the command line arguments
+list= sys.argv[2]
 
-input0 = input0([
-  [1,2,3,4,5],
-  [9,8,7,6,5],
-  [11,22,33,44,55]
-])
+# Write your code below
+print(list[1][2])
 
-output( input0[1][2])
 ```
 |||

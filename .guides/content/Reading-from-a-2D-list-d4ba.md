@@ -1,4 +1,4 @@
-{Run the code}(python 1-overview/read.py)
+{Run the code}(python content/1-overview/read.py)
 
 On the left we have some code that does the following.
 

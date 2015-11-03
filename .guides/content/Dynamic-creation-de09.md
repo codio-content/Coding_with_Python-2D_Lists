@@ -1,21 +1,21 @@
-{Run the code}(python run-user.py dynamic.py)
-
 {Check It!|assessment}(test-667129063)
 
 |||guidance
 ### Solution
 ```python
-input0 = input0(2)
-input1 = input1(8)
+# Get our arguments from the command line
+A= sys.argv[2]
+B= sys.argv[3]
 
+# Your code goes here
 data = []
 
-for x in range(0, input0):
+for x in range(0, A):
   data.append([])
   
-  for y in range(0, input1):
+  for y in range(0, B):
     data[x].append('R' + str(x) + 'C' + str(y))
 
-output(data)
+print(data)
 ```
 |||

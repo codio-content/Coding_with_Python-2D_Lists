@@ -1,8 +1,3 @@
-{Check It!|assessment}(test-3455473410)
-
-|||guidance
-### Solution
-```python
 # Get our list from the command line arguments
 numbers= sys.argv[2]
 
@@ -19,5 +14,3 @@ for row in numbers:
   gtotal = gtotal + total
 
 print(gtotal)
-```
-|||

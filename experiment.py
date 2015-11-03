@@ -1,4 +1,3 @@
-
 # Creating a 2D list
 people = [ 
   ['Alice',23,'Blue','Audi'],

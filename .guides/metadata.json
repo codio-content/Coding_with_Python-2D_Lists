@@ -67,7 +67,7 @@
      "action": "close"
     },
     {
-     "path": "1-overview/people.txt",
+     "path": "content/1-overview/people.txt",
      "panel": 0,
      "action": "open"
     }
@@ -89,7 +89,7 @@
      "action": "close"
     },
     {
-     "path": "1-overview/read.py",
+     "path": "content/1-overview/read.py",
      "panel": 0,
      "action": "open"
     }
@@ -111,7 +111,7 @@
      "action": "close"
     },
     {
-     "path": "1-overview/2d.flode",
+     "path": "content/1-overview/2d.flode",
      "panel": 0,
      "action": "open"
     }
@@ -133,7 +133,7 @@
      "action": "close"
     },
     {
-     "path": "1-overview/write.py",
+     "path": "content/1-overview/write.py",
      "panel": 0,
      "action": "open"
     }
@@ -141,7 +141,7 @@
    "layout": "",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Dynamic-2D-list-in-Python-e449.md.md",
+   "content-file": ".guides/content/Dynamic-2D-list-in-Python-e449.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -155,7 +155,7 @@
      "action": "close"
     }
    ],
-   "layout": "",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Challenges-9b69.md",
@@ -172,12 +172,12 @@
      "action": "close"
     },
     {
-     "path": "easy.py",
+     "path": "challenges/easy.py",
      "panel": 0,
      "action": "open"
     }
    ],
-   "layout": "",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Easy-peasy-6ba0.md",
@@ -194,7 +194,7 @@
      "action": "close"
     },
     {
-     "path": "list.py",
+     "path": "challenges/list.py",
      "panel": 0,
      "action": "open"
     }
@@ -216,7 +216,7 @@
      "action": "close"
     },
     {
-     "path": "dynamic.py",
+     "path": "challenges/dynamic.py",
      "panel": 0,
      "action": "open"
     }
@@ -238,7 +238,7 @@
      "action": "close"
     }
    ],
-   "layout": "",
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/All-done---ab46.md",
