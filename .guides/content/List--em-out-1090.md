@@ -4,20 +4,24 @@
 ### Solution
 ```python
 # Get our list from the command line arguments
-numbers= sys.argv[2]
+import sys
+numbers= sys.argv[1:]
 
-# Write your code below
-gtotal = 0
-
-for row in numbers:
-  total = 0
+# Convert the command line arguments into 2d list
+for i in range(0,len(numbers)): 
+  numbers[i]= numbers[i].split(',')
   
-  for col in row:
-    total = total + col
-    
-  print(total)
-  gtotal = gtotal + total
+# Write your code below
+gtotal = 0                    # initialize the grand total
 
-print(gtotal)
+for row in numbers:           # for each row
+  total = 0                   # reset this row total
+  for col in row:             # for each col
+    total = total + int(col)  # total up the row
+    
+  print(total)                # print the row total
+  gtotal = gtotal + total     # tract the grand total
+
+print(gtotal)                 # print the grand total
 ```
 |||

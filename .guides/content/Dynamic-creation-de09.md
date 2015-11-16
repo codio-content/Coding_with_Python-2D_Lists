@@ -4,8 +4,9 @@
 ### Solution
 ```python
 # Get our arguments from the command line
-A= sys.argv[2]
-B= sys.argv[3]
+import sys
+A= sys.argv[1]
+B= sys.argv[2]
 
 # Your code goes here
 data = []
