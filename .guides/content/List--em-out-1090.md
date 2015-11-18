@@ -19,9 +19,9 @@ for row in numbers:           # for each row
   for col in row:             # for each col
     total = total + int(col)  # total up the row
     
-  print(total)                # print the row total
+  print(str(total))           # print the row total
   gtotal = gtotal + total     # tract the grand total
 
-print(gtotal)                 # print the grand total
+print(str(gtotal))            # print the grand total
 ```
 |||
