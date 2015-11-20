@@ -3,10 +3,11 @@
 |||guidance
 ### Solution
 ```python
+
 # Get our arguments from the command line
 import sys
-A= sys.argv[1]
-B= sys.argv[2]
+A= int(sys.argv[1])
+B= int(sys.argv[2])
 
 # Your code goes here
 data = []

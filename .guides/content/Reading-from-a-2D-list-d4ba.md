@@ -11,7 +11,7 @@ var desks= [
 ];
 ```
 
-There is no need to write this python like this. It could all be on one line but we added the line breaks to make it more readable.
+There is no need to write the code like this. It could all be on one line but we added the line breaks to make it more readable.
 
 ## Lengths
 Python makes looping through lists easy, but if you do want to find out how many elements are in a list use the `len()` function.
