@@ -2,9 +2,9 @@
 
 On the left we have some code that does the following.
 
-## Define and populate an array
+## Define and populate a list
 ```python
-var desks= [
+desks= [
   ['Adam', 'Ben', 'Carl', 'David'],
   ['Edward', 'Frank', 'Georgia', 'Helen'],
   ['Isabelle', 'Joan', 'Kelly', 'Linda']
