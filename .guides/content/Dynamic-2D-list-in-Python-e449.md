@@ -1,5 +1,5 @@
-In this example, we are creating a new list and populating it with some rows and columns. 
+Look at the example code on the left. The code creates a new array and populates it with some rows and columns.
 
-You can see how we have filled each 'cell' in the list.
+Each 'cell' in the array is filled when the code runs.
 
 {Run the code}(python3 content/1-overview/write.py)

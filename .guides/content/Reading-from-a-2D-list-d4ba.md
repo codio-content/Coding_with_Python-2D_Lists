@@ -1,6 +1,6 @@
 {Run the code}(python content/1-overview/read.py)
 
-On the left we have some code that does the following.
+Have a look at the code on the left. This is what it does:
 
 ## Define and populate a list
 ```python
@@ -11,10 +11,10 @@ desks= [
 ];
 ```
 
-There is no need to write the code like this. It could all be on one line but we added the line breaks to make it more readable.
+There is no need to write the code like this. It could all be on one line but the line breaks were added to make it more readable.
 
 ## Lengths
-Python makes looping through lists easy, but if you do want to find out how many elements are in a list use the `len()` function.
+Python makes looping through lists easy, however, if you do want to find out how many elements are in a list use the `len()` function.
 
 ## Loop through everything
 You can see that we actually have a *nested loop* inside another loop.

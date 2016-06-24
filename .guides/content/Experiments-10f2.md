@@ -1,5 +1,7 @@
-Feel free to write any experimental code in this window.
+This window is provided for you to try out any code you develop. Use it to experiment and practise.
+
+There is some starter code provided for you. This code will be explained on the following pages.
 
 {Run the code}(python3 experiment.py) 
 
-There's a little starter code for you. We'll explain it all on the following pages.
+
