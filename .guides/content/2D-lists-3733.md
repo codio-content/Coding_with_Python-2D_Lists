@@ -11,9 +11,9 @@ Here is an example of two-dimensional data:
 Here is how the data would be represented in a two-dimensional array:
 
 ```python
-people = [ 
+people = [
   ['Alice',23,'Blue','Audi'],
-  ['Tariq',18,'Red','Mini'], 
-  ['Bob',31,'Green','Renault'] 
+  ['Tariq',18,'Red','Mini'],
+  ['Bob',31,'Green','Renault']
 ]
 ```

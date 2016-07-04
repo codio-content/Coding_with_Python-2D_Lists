@@ -2,6 +2,6 @@ This window is provided for you to try out any code you develop. Use it to exper
 
 There is some starter code provided for you. This code will be explained on the following pages.
 
-{Run the code}(python3 experiment.py) 
+{Run the code}(python3 experiment.py)
 
 
